@@ -8,3 +8,6 @@ Una base de datos para una pequeña empresa debe contener información acerca de
 Además, se ha determinado que se debe almacenar la información de las fábricas. Sin embargo, dado el uso de distribuidores, se usará: Número de la fábrica (único), Nombre y Teléfono de contacto. Y se desean ver cuántos artículos (en total) provee la fábrica. También, por información estratégica, se podría incluir información de fábricas alternativas respecto de las que ya fabrican artículos para esta empresa.
 Nota: Una dirección se entenderá como  Calle, Número, Puerta, CP y Localidad. Una fecha incluye día, mes, año y hora.
 Se pide hacer el diagrama ER para la base de datos que represente esta información.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
