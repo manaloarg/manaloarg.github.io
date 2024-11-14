@@ -9,5 +9,33 @@ Además, se ha determinado que se debe almacenar la información de las fábrica
 Nota: Una dirección se entenderá como  Calle, Número, Puerta, CP y Localidad. Una fecha incluye día, mes, año y hora.
 Se pide hacer el diagrama ER para la base de datos que represente esta información.
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
