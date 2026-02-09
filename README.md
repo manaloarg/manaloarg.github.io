@@ -16,7 +16,7 @@ Aquesta pàgina és una porta d’entrada ràpida als materials i a les activita
     <div style="border:1px solid #ddd; border-radius:12px; overflow:hidden;">
       <img src="./img/LMSGI.png" alt="LMSGI" style="width:100%; height:150px; object-fit:cover;">
       <div style="padding:12px;">
-        <div style="font-size:1.1rem; font-weight:700;">LMSGI</div>
+        <div style="font-size:1.1rem; font-weight:700;text-align:center;">LMSGI</div>
         <div style="margin-top:6px; color:#444; font-size:.95rem;">
           HTML, CSS, JS, XML, JSON i validació. Pràctica, exemples i exercicis guiats.
         </div>
@@ -29,7 +29,7 @@ Aquesta pàgina és una porta d’entrada ràpida als materials i a les activita
     <div style="border:1px solid #ddd; border-radius:12px; overflow:hidden;">
       <img src="./img/BBDD.png" alt="BBDD" style="width:100%; height:150px; object-fit:cover;">
       <div style="padding:12px;">
-        <div style="font-size:1.1rem; font-weight:700;">BBDD</div>
+        <div style="font-size:1.1rem; font-weight:700;text-align:center;">BBDD</div>
         <div style="margin-top:6px; color:#444; font-size:.95rem;">
           Model relacional, SQL, consultes, claus i relacions. Activitats pas a pas i casos pràctics.
         </div>
@@ -39,15 +39,3 @@ Aquesta pàgina és una porta d’entrada ràpida als materials i a les activita
   </a>
 
 </div>
-
----
-
-## Enllaços ràpids
-- **LMSGI:** [Materials i activitats](./lmsgi/)
-- **BBDD:** [Materials i activitats](./bbdd/)
-
----
-
-## Centre
-📍 **IES Mestre Ramon Esteve — Catadau**
-
