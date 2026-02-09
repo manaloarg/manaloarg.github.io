@@ -20,7 +20,6 @@ Aquesta pàgina és una porta d’entrada ràpida als materials i a les activita
         <div style="margin-top:6px; color:#444; font-size:.95rem;">
           HTML, CSS, JS, XML, JSON i validació. Pràctica, exemples i exercicis guiats.
         </div>
-        <div style="margin-top:10px; font-size:.95rem;">👉 Obrir materials</div>
       </div>
     </div>
   </a>
@@ -33,7 +32,6 @@ Aquesta pàgina és una porta d’entrada ràpida als materials i a les activita
         <div style="margin-top:6px; color:#444; font-size:.95rem;">
           Model relacional, SQL, consultes, claus i relacions. Activitats pas a pas i casos pràctics.
         </div>
-        <div style="margin-top:10px; font-size:.95rem;">👉 Obrir materials</div>
       </div>
     </div>
   </a>
