@@ -24,7 +24,7 @@ Aquesta pàgina és una porta d’entrada ràpida als materials i a les activita
 
 <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px; margin-top: 14px;">
 
-  <a href="(https://manaloarg.github.io/LLMSGI)" style="text-decoration:none; color:inherit;">
+  <a href="./LLMSGI" style="text-decoration:none; color:inherit;">
     <div style="border:1px solid #ddd; border-radius:12px; overflow:hidden;">
       <img src="./img/lmsgi.jpg" alt="LMSGI" style="width:100%; height:150px; object-fit:cover;">
       <div style="padding:12px;">
@@ -37,7 +37,7 @@ Aquesta pàgina és una porta d’entrada ràpida als materials i a les activita
     </div>
   </a>
 
-  <a href="[./bbdd/](https://manaloarg.github.io/BBDD)" style="text-decoration:none; color:inherit;">
+  <a href="./BBDD" style="text-decoration:none; color:inherit;">
     <div style="border:1px solid #ddd; border-radius:12px; overflow:hidden;">
       <img src="./img/bbdd.jpg" alt="BBDD" style="width:100%; height:150px; object-fit:cover;">
       <div style="padding:12px;">
