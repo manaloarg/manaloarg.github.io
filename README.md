@@ -24,20 +24,20 @@ Aquesta pàgina és una porta d’entrada ràpida als materials i a les activita
 
 <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px; margin-top: 14px;">
 
-  <a href="./lmsgi/" style="text-decoration:none; color:inherit;">
+  <a href="(https://manaloarg.github.io/LLMSGI)" style="text-decoration:none; color:inherit;">
     <div style="border:1px solid #ddd; border-radius:12px; overflow:hidden;">
       <img src="./img/lmsgi.jpg" alt="LMSGI" style="width:100%; height:150px; object-fit:cover;">
       <div style="padding:12px;">
         <div style="font-size:1.1rem; font-weight:700;">LMSGI</div>
         <div style="margin-top:6px; color:#444; font-size:.95rem;">
-          HTML i CSS, estructures de documents, XML/JSON i validació. Pràctica, exemples i exercicis guiats.
+          HTML, CSS, JS, XML, JSON i validació. Pràctica, exemples i exercicis guiats.
         </div>
         <div style="margin-top:10px; font-size:.95rem;">👉 Obrir materials</div>
       </div>
     </div>
   </a>
 
-  <a href="./bbdd/" style="text-decoration:none; color:inherit;">
+  <a href="[./bbdd/](https://manaloarg.github.io/BBDD)" style="text-decoration:none; color:inherit;">
     <div style="border:1px solid #ddd; border-radius:12px; overflow:hidden;">
       <img src="./img/bbdd.jpg" alt="BBDD" style="width:100%; height:150px; object-fit:cover;">
       <div style="padding:12px;">
