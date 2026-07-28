@@ -573,6 +573,7 @@ Aquesta pàgina és una porta d’entrada ràpida als materials i a les activita
               <span class="portal-tag">Model relacional</span>
               <span class="portal-tag">SQL</span>
               <span class="portal-tag">MySQL</span>
+              <span class="portal-tag">NoSQL</span>
             </div>
 
           </div>
