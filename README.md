@@ -477,7 +477,7 @@
 
           <div class="portal-module-image">
             <img
-              src="./img/LMSGI.png"
+              src="./img/LMSGI 2.png"
               alt="Llenguatges de Marques i Sistemes de Gestió d’Informació"
             >
           </div>
@@ -511,7 +511,7 @@
 
           <div class="portal-module-image">
             <img
-              src="./img/BBDD.png"
+              src="./img/BBDD 2.png"
               alt="Bases de Dades"
             >
           </div>
