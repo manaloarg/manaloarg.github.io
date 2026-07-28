@@ -25,7 +25,7 @@
   }
 
   .portal {
-    max-width: 1800px;
+    max-width: 1500px;
     margin: 0 auto;
     color: var(--portal-text);
   }
@@ -77,7 +77,7 @@
   .portal-hero-content {
     position: relative;
     z-index: 1;
-    max-width: 780px;
+    max-width: 1000px;
   }
 
   .portal-label {
@@ -477,7 +477,7 @@
 
           <div class="portal-module-image">
             <img
-              src="./img/LMSGI 2.png"
+              src="./img/LMSGI.png"
               alt="Llenguatges de Marques i Sistemes de Gestió d’Informació"
             >
           </div>
@@ -511,7 +511,7 @@
 
           <div class="portal-module-image">
             <img
-              src="./img/BBDD 2.png"
+              src="./img/BBDD.png"
               alt="Bases de Dades"
             >
           </div>
@@ -548,5 +548,3 @@
   </footer>
 
 </div>
-
-
