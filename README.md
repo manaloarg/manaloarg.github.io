@@ -588,3 +588,105 @@ Aquesta pàgina és una porta d’entrada ràpida als materials i a les activita
   </footer>
 
 </div>
+
+
+---
+hide:
+  - navigation
+---
+
+# 👨‍💻 Manuel Alonso Argente
+
+## Materials de Formació Professional
+
+Professor de **Formació Professional** a l'**IES Mestre Ramon Esteve** (Catadau).
+
+!!! tip "Benvingut!"
+    Aquesta és la porta d'accés als materials dels mòduls que impartisc al cicle de **Desenvolupament d'Aplicacions Web (DAW)**.
+
+    Ací trobaràs:
+
+    - 📖 Apunts
+    - 💻 Pràctiques
+    - 📝 Activitats
+    - 🎯 Exercicis resolts
+    - 📂 Recursos descarregables
+
+<div class="grid cards" markdown>
+
+- :material-language-html5:{ style="font-size:40px;color:#1976D2" }
+
+    ## LMSGI
+
+    ![](img/LMSGI.png)
+
+    **Llenguatges de Marques i Sistemes de Gestió d'Informació**
+
+    HTML · CSS · JavaScript · XML · JSON
+
+    [:material-arrow-right-bold: Entrar](LLMSGI/){ .md-button .md-button--primary }
+
+- :material-database:{ style="font-size:40px;color:#009688" }
+
+    ## BBDD
+
+    ![](img/BBDD.png)
+
+    **Bases de Dades**
+
+    Model ER · SQL · MySQL · Normalització
+
+    [:material-arrow-right-bold: Entrar](BBDD/){ .md-button .md-button--primary }
+
+</div>
+
+---
+
+# 📚 Què trobaràs?
+
+<div class="grid cards" markdown>
+
+- :material-book-open-page-variant:
+
+    ## Teoria
+
+    Explicacions clares, esquemes i exemples.
+
+- :material-code-tags:
+
+    ## Exemples
+
+    Codi completament comentat.
+
+- :material-pencil:
+
+    ## Activitats
+
+    Exercicis guiats i autoavaluables.
+
+- :material-school:
+
+    ## Recursos
+
+    Fitxers descarregables, PDFs i presentacions.
+
+</div>
+
+---
+
+# 🚀 Accés ràpid
+
+[:material-language-html5: LMSGI](LLMSGI/){ .md-button .md-button--primary }
+[:material-database: BBDD](BBDD/){ .md-button .md-button--primary }
+
+---
+
+<center>
+
+### Manuel Alonso Argente
+
+Professor de Formació Professional
+
+IES Mestre Ramon Esteve · Catadau
+
+</center>
