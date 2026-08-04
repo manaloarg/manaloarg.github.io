@@ -391,10 +391,8 @@
     <div class="portal-hero-content">
 
       <div class="portal-label">
-        👨‍💻 Formació Professional · Informàtica
+        Formació Professional · Informàtica
       </div>
-
-      <h1>Manuel Alonso Argente</h1>
 
       <p class="portal-hero-subtitle">
         Recursos, continguts i activitats per als mòduls del cicle de
